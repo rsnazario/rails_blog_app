@@ -69,11 +69,11 @@ A special thanks for the code reviewers.
 
 ## Author
 
-👤 **Rafael Silva**
+👤 **Rafael Nazario**
 
 - Github: [@rsnazario](https://github.com/rsnazario)
-- Twitter: [#rsnazario)](https://twitter.com/SevlaMare)
-- Linkedin: [rsnazario)](https://www.linkedin.com/in/sevlamare)
+- Twitter: [@rsnazario](https://twitter.com/rsnazario)
+- Linkedin: [Rafael Nazario](https://www.linkedin.com/in/rafael-nazario-692b8293/)
 
 👤 **Thiago Miranda**
 
