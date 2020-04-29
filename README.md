@@ -20,9 +20,9 @@
 <ul>
   <li>User can make a account and login</li>
   <li>Users can make post, edit and delete your own posts</li>
-  <li>Show have a comments section</li>
   <li>Spam message to confirm if a post is create, edit or delete</li>
   <li>Ask to confirm when want to delete a post</li>
+  <li>Is possible to make comments</li>
 </ul>
 
 ## Built With
