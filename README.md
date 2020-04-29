@@ -39,11 +39,6 @@
 To use this program, you will need install:
 * Ruby Language - Version 2.5 or high - [Install guide](https://www.ruby-lang.org/en/documentation/installation/)
 * Ruby on Rails - Version 5.2 - [Install guide](https://guides.rubyonrails.org/v5.0/getting_started.html#installing-rails)
-<br>
-* Gems - Run bundle to install depencencies
-```js
-bundle install
-```
 
 #### Get a local copy
 Now you need a copy of this application, if you are using Git:
@@ -53,12 +48,17 @@ git clone git@github.com:rsnazario/rails_blog_app.git
 Otherwise just hit (Download Zip) on green button (Clone or Download) at top of this page.
 
 #### Run
+Run bundle to install all gems:
+```js
+bundle install
+```
+
 To run, from the application folder, just type on terminal:
 ```js
 rails server
 ```
-Now you can go to your favorite web browser like Google Crome
-<br>and go to this page: localhost
+Now you can go to your favorite web browser like Google Crome and go to this page:<br>
+localhost:3000
 
 ### Contributing
 
