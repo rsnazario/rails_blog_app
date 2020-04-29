@@ -28,7 +28,7 @@
 ## Built With
 
 - Ruby 2.7<br>
-- Ruby on Rails 5.x <br>
+- Ruby on Rails 5.2 <br>
 - RSpec (Unit testing) <br>
 - Rubocop (Linter) with Stickler (CI Tool) <br>
 - Git, Github and VScode <br>
@@ -39,7 +39,11 @@
 To use this program, you will need install:
 * Ruby Language - Version 2.5 or high - [Install guide](https://www.ruby-lang.org/en/documentation/installation/)
 * Ruby on Rails - Version 5.2 - [Install guide](https://guides.rubyonrails.org/v5.0/getting_started.html#installing-rails)
-
+<br>
+* Gems - Run bundle to install depencencies
+```js
+bundle install
+```
 
 #### Get a local copy
 Now you need a copy of this application, if you are using Git:
@@ -47,7 +51,6 @@ Now you need a copy of this application, if you are using Git:
 git clone git@github.com:rsnazario/rails_blog_app.git
 ```
 Otherwise just hit (Download Zip) on green button (Clone or Download) at top of this page.
-
 
 #### Run
 To run, from the application folder, just type on terminal:
@@ -84,4 +87,3 @@ A special thanks for the code reviewers.
 ### License
 
 <strong>MIT</strong>
-
