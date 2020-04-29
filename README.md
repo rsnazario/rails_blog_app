@@ -37,15 +37,14 @@
 
 #### Install
 To use this program, you will need install:
-* Ruby Language - Version 2.5.5 or high - [Install guide](https://www.ruby-lang.org/en/documentation/installation/)
-
-* Ruby on Rails - Version 2.5.5 or high - [Install guide](https://guides.rubyonrails.org/v5.0/getting_started.html#installing-rails)
+* Ruby Language - Version 2.5 or high - [Install guide](https://www.ruby-lang.org/en/documentation/installation/)
+* Ruby on Rails - Version 5.2 - [Install guide](https://guides.rubyonrails.org/v5.0/getting_started.html#installing-rails)
 
 
 #### Get a local copy
 Now you need a copy of this application, if you are using Git:
 ```js
-git clone git@github.com:SevlaMare/blogger_rails.git
+git clone git@github.com:rsnazario/rails_blog_app.git
 ```
 Otherwise just hit (Download Zip) on green button (Clone or Download) at top of this page.
 
@@ -72,9 +71,9 @@ A special thanks for the code reviewers.
 
 👤 **Rafael Silva**
 
-- Github: [@SevlaMare](https://github.com/SevlaMare)
-- Twitter: [#SevlaMare)](https://twitter.com/SevlaMare)
-- Linkedin: [SevlaMare)](https://www.linkedin.com/in/sevlamare)
+- Github: [@rsnazario](https://github.com/rsnazario)
+- Twitter: [#rsnazario)](https://twitter.com/SevlaMare)
+- Linkedin: [rsnazario)](https://www.linkedin.com/in/sevlamare)
 
 👤 **Thiago Miranda**
 
@@ -84,5 +83,5 @@ A special thanks for the code reviewers.
 
 ### License
 
-<strong>Creative Commons</strong>
+<strong>MIT</strong>
 
